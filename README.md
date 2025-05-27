@@ -79,7 +79,7 @@ Sales-Customer-Insights-EDA-Project/
 ## 🧩 Tools Used
 
 - **Power BI** for data visualization
-- **Python (Pandas, Matplotlib)** for data cleaning and EDA
+- **Python  (Pandas, Matplotlib,mysqlconnector)**  and SQL queries for data cleaning and EDA
 - **CSV** file format for data input
 
 ---
